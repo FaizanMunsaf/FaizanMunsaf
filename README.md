@@ -144,10 +144,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Johnny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Johnny463&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/FaizanMunsaf/github-readme-stats"><img alt="Faizan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Johnny463&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Johnny463&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Johnny463" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaizanMunsaf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Johnny463" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -156,13 +156,13 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Johnny463"><img alt="Johnny463's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Johnny463&custom_title=Johnny463's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/FaizanMunsaf"><img alt="Johnny463's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FaizanMunsaf&custom_title=FaizanMunsaf's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
 <br/>
 
 -----
-Credits: Johnny463
+Credits: FaizanMunsaf
 
-Last Edited on: 04/04/2023
+Last Edited on: 08/09/2023
