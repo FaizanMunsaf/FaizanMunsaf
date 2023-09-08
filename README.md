@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm FaizanMunsaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/FaizanMunsaf"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Aspiring%20Data%20Scientist%20(ML,%20DL,%20NLP);Cloud+Computing;AIOPS;Generative+Ai;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/FaizanMunsaf"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Aspiring%20Data%20Scientist%20(ML,%20DL,%20NLP);Cloud+Computing;Hyper-Ledger-Fabric%20Private%20BlockChain;Generative+Ai;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## :sassy_man:  About me
@@ -24,7 +24,7 @@
 13) Kubernetes.
 14) Tensorflow
 15) Keras
-16) Mysql , Oracle and Sqlite
+16) MongoDB, Postgresql, Firebase Mysql , Sqlite
 
 <br>
 
