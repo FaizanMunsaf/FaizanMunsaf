@@ -154,10 +154,13 @@
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/FaizanMunsaf"><img alt="FaizanMunsaf's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FaizanMunsaf&custom_title=FaizanMunsaf's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+# Github Contributions
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
 
 
 <br/>
