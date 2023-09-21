@@ -8,7 +8,9 @@
 - Intresting in `Data Scientist/Analyst`, Big Data, Cloud Computing, Generative Ai, Proficient in Data Science with focus on challenging businesses problems.
 
 ### Technology Stacks:
-- Core/In-depth/Practical Knowledge in:
+
+**Core/In-depth/Practical Knowledge in:**
+
 1) Feature Engineering, Data pre-processing, with Sklearn's Pipelines and Algorithms.
 2) Data Manipulation with Pandas, Numpy, Streamlit etc.
 3) Data Visualization with Seaborn, Matplotlib.
