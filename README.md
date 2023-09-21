@@ -10,21 +10,24 @@
 ### Technology Stacks:
 - Core/In-depth/Practical Knowledge in:
 1) Feature Engineering, Data pre-processing, with Sklearn's Pipelines and Algorithms.
-2) Data Manipulation with Pandas, Numpy, etc.
-3) In-depth knowledge of Supervised and Unsupervised Machine Learning Models.
-4) In-depth knowledge of Statistics.
-5) Tensorflow 
-6) Pytorch.
-7) Cloud Knowledge in  Azure, AWS (EC2, S3 bucket, Sage Maker)
-8) Knowledge In AIOPS.
-9) Github 
-10) Data Version Control (DVC).
-11) Mlflow.
-12) Dockers.
-13) Kubernetes.
-14) Tensorflow
-15) Keras
-16) MongoDB, Postgresql, Firebase Mysql , Sqlite
+2) Data Manipulation with Pandas, Numpy, Streamlit etc.
+3) Data Visualization with Seaborn, Matplotlib.
+4) In-depth knowledge of Supervised and Unsupervised Machine Learning Models.
+5) In-depth knowledge of Statistics.
+6) Tensorflow 
+7) Pytorch.
+8) Cloud Knowledge in  Azure, AWS (EC2, S3 bucket, Sage Maker)
+9) Knowledge In AIOPS.
+10) Github 
+11) Data Version Control (DVC).
+12) Mlflow.
+13) Dockers.
+14) Generative Ai
+15) Tensorflow
+16) Keras
+17) MongoDB, Postgresql, Firebase Mysql , Sqlite
+18) Hyperledger-Fabric Private BlockChain
+19) Python | TypeScript | Javascript
 
 <br>
 
