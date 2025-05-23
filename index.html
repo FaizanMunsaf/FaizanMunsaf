@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Faizan Munsaf | Portfolio</title>
+
+  <!-- Fonts & AOS CSS -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600;700&display=swap" rel="stylesheet">
+  <link href="https://unpkg.com/aos@next/dist/aos.css" rel="stylesheet">
+
+  <style>
+    :root {
+      --primary: #30CFD0;
+      --accent: #FF416C;
+      --bg-dark: #0f2027;
+    }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+    body {
+      background: var(--bg-dark);
+      color: #fff;
+      overflow-x: hidden;
+    }
+
+    header {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%;
+      background: rgba(0,0,0,0.85);
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 1000;
+    }
+    header h1 {
+      background: linear-gradient(to right, var(--primary), #330867);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 1.8rem;
+    }
+    nav a {
+      color: #fff;
+      margin-left: 1.5rem;
+      text-decoration: none;
+      font-weight: bold;
+      transition: color 0.3s ease;
+    }
+    nav a:hover {
+      color: var(--primary);
+    }
+
+    .section-title {
+      font-size: 2.5rem;
+      margin-bottom: 2rem;
+      background: linear-gradient(to right, var(--primary), var(--accent));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .hero {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      overflow: hidden;
+      background:
+        linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+        url('https://source.unsplash.com/1600x900/?technology,computer') center/cover no-repeat;
+    }
+    .hero::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      pointer-events: none;
+      background-image:
+        linear-gradient(rgba(255,255,255,0.07) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.07) 1px, transparent 1px);
+      background-size: 40px 40px;
+      background-position: var(--bg-pos-x, 0px) var(--bg-pos-y, 0px);
+    }
+    .hero h2 {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+      z-index: 1;
+    }
+    .hero p {
+      font-size: 1.1rem;
+      max-width: 600px;
+      margin: 0 auto 2rem;
+      z-index: 1;
+    }
+    .hero .btn-container {
+      display: flex;
+      gap: 1rem;
+      z-index: 1;
+    }
+
+    /* perfectly centered flex buttons */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.8rem 1.5rem;
+      max-width: 160px;
+      width: 100%;
+      font-size: 0.95rem;
+      color: #fff;
+      background: var(--primary);
+      border-radius: 25px;
+      position: relative;
+      overflow: hidden;
+      cursor: pointer;
+      transition: background 0.3s ease, transform 0.3s ease;
+      text-decoration: none;
+    }
+    .btn:hover {
+      background: var(--accent);
+      transform: scale(1.05);
+    }
+    .btn::after {
+      content: "";
+      position: absolute;
+      width: 100px; height: 100px;
+      background: rgba(255,255,255,0.4);
+      border-radius: 50%;
+      transform: scale(0);
+      opacity: 0;
+      pointer-events: none;
+      transition: transform 0.6s, opacity 0.6s;
+    }
+    .btn:active::after {
+      top: 50%; left: 50%;
+      transform: translate(-50%, -50%) scale(1);
+      opacity: 1;
+      transition: 0s;
+    }
+
+    /* “What I Do” cards – updated topics */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 1.5rem;
+      margin: 2rem;
+    }
+    .card {
+      background: #1c1c1c;
+      border-radius: 15px;
+      padding: 1.5rem;
+      box-shadow: 0 0 10px rgba(48,207,208,0.2);
+      text-align: center;
+      transition: transform 0.3s ease;
+    }
+    .card:hover { transform: translateY(-10px); }
+    .card img {
+      width: 80px; height: 80px;
+      margin: 0 auto 1rem;
+      border-radius: 10px;
+      object-fit: cover;
+    }
+    .card i {
+      font-size: 2rem;
+      color: var(--accent);
+      margin-bottom: 0.5rem;
+    }
+    .card h4 {
+      margin-top: 0.5rem;
+      font-weight: 600;
+    }
+
+    .timeline {
+      max-width: 700px;
+      margin: auto;
+      text-align: left;
+    }
+    .timeline-item {
+      margin-bottom: 2rem;
+      padding-left: 1rem;
+      border-left: 3px solid var(--accent);
+    }
+    .timeline-item h4 {
+      margin: 0.5rem 0;
+      color: var(--primary);
+    }
+
+    .skills-bar {
+      max-width: 700px;
+      margin: 0 auto 4rem;
+      text-align: left;
+    }
+    .skill {
+      margin-bottom: 1rem;
+    }
+    .skill-name {
+      margin-bottom: 0.3rem;
+    }
+    .skill-bar-bg {
+      background: #333;
+      height: 10px;
+      border-radius: 5px;
+    }
+    .skill-bar-fill {
+      background: var(--primary);
+      height: 10px;
+      border-radius: 5px;
+      width: 0;
+      transition: width 1s ease-out;
+    }
+
+    /* center contact section */
+    #contact {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding-bottom: 4rem;
+    }
+    #contact .contact-info {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .mouse-ring {
+      position: fixed;
+      top: 0; left: 0;
+      pointer-events: none;
+      z-index: 999;
+      width: 250px; height: 250px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(48,207,208,0.15), transparent 70%);
+      transform: translate(-50%, -50%);
+      transition: top 0.05s ease-out, left 0.05s ease-out;
+    }
+    footer {
+      padding: 2rem;
+      text-align: center;
+      background: #111;
+      color: #aaa;
+    }
+    @media (max-width: 768px) {
+      .hero h2 { font-size: 2rem; }
+      nav { flex-direction: column; align-items: flex-start; }
+      nav a { margin: 0.5rem 0; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="mouse-ring" id="mouseRing"></div>
+
+  <header>
+    <h1>Faizan</h1>
+    <nav>
+      <a href="#hero">Home</a>
+      <a href="#whatido">What I Do</a>
+      <a href="#experience">Experience</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero" id="hero" data-aos="fade-up">
+    <h2 data-aos="fade-down" data-aos-delay="200">Faizan Munsaf</h2>
+    <p data-aos="fade-up" data-aos-delay="400">
+      Python &amp; Machine Learning Engineer | Backend Dev | NLP &amp; GenAI Expert
+    </p>
+    <div class="btn-container">
+      <a href="Faizan-Munsaf-FastAPI-ML-Python.pdf" download class="btn" data-aos="zoom-in" data-aos-delay="600">Download CV</a>
+      <a href="#contact" class="btn" data-aos="zoom-in" data-aos-delay="800">Contact Me</a>
+    </div>
+  </section>
+
+  <!-- What I Do (updated) -->
+  <section id="whatido" data-aos="fade-up">
+    <h2 class="section-title">What I Do</h2>
+    <div class="cards">
+      <!-- Backend Development -->
+      <div class="card" data-aos="flip-left" data-aos-delay="100">
+        <img src="https://images.unsplash.com/photo-1649180556628-9ba704115795?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Backend Dev">
+        <i class="fas fa-server"></i>
+        <h4>Backend Development</h4>
+      </div>
+      <!-- Machine Learning -->
+      <div class="card" data-aos="flip-left" data-aos-delay="200">
+        <img src="https://images.unsplash.com/photo-1591453089816-0fbb971b454c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Machine Learning">
+        <i class="fas fa-robot"></i>
+        <h4>Machine Learning</h4>
+      </div>
+      <!-- Deep Learning -->
+      <div class="card" data-aos="flip-left" data-aos-delay="300">
+        <img src="https://images.unsplash.com/photo-1717583191083-cd82ed7f217e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Deep Learning">
+        <i class="fas fa-brain"></i>
+        <h4>Deep Learning</h4>
+      </div>
+      <!-- Computer Vision -->
+      <div class="card" data-aos="flip-left" data-aos-delay="400">
+        <img src="https://images.unsplash.com/photo-1645787846101-8ef78e0ed841?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Computer Vision">
+        <i class="fas fa-eye"></i>
+        <h4>Computer Vision</h4>
+      </div>
+      <!-- NLP -->
+      <div class="card" data-aos="flip-left" data-aos-delay="500">
+        <img src="https://images.unsplash.com/photo-1648488364535-91e38a4ffafc?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="NLP">
+        <i class="fas fa-language"></i>
+        <h4>NLP</h4>
+      </div>
+      <!-- Generative AI -->
+      <div class="card" data-aos="flip-left" data-aos-delay="600">
+        <img src="https://images.unsplash.com/photo-1677756119517-756a188d2d94?q=80&w=2050&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Generative AI">
+        <i class="fas fa-magic"></i>
+        <h4>Generative AI</h4>
+      </div>
+    </div>
+  </section>
+
+  <!-- Experience -->
+  <section id="experience" data-aos="fade-up">
+    <h2 class="section-title">Experience</h2>
+    <div class="timeline">
+      <div class="timeline-item" data-aos="fade-right" data-aos-delay="150">
+        <h3>Software Alliance</h3>
+        <h4>Oct 2022 – Sep 2024</h4>
+        <p>ML &amp; Backend Dev (FastAPI, LLMs, LangChain, RAG models, blockchain)</p>
+      </div>
+      <div class="timeline-item" data-aos="fade-right" data-aos-delay="300">
+        <h3>PieCyfer</h3>
+        <h4>Sep 2024 – Jan 2025</h4>
+        <p>Backend Django Developer &amp; NLP Engineer (Django Ninja, microservices, AWS)</p>
+      </div>
+      <div class="timeline-item" data-aos="fade-right" data-aos-delay="450">
+        <h3>TransData</h3>
+        <h4>Mar 2025 – Present</h4>
+        <p>FastAPI Backend Developer with LangGraph, LangChain, Pinecone</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills -->
+  <section id="skills" data-aos="fade-up">
+    <h2 class="section-title">Skills</h2>
+    <div class="skills-bar">
+      <div class="skill" data-aos="fade-up" data-aos-delay="100">
+        <div class="skill-name">Python</div>
+        <div class="skill-bar-bg"><div class="skill-bar-fill" style="width:95%;"></div></div>
+      </div>
+      <div class="skill" data-aos="fade-up" data-aos-delay="200">
+        <div class="skill-name">FastAPI</div>
+        <div class="skill-bar-bg"><div class="skill-bar-fill" style="width:90%;"></div></div>
+      </div>
+      <div class="skill" data-aos="fade-up" data-aos-delay="300">
+        <div class="skill-name">NLP</div>
+        <div class="skill-bar-bg"><div class="skill-bar-fill" style="width:88%;"></div></div>
+      </div>
+      <div class="skill" data-aos="fade-up" data-aos-delay="400">
+        <div class="skill-name">LangChain</div>
+        <div class="skill-bar-bg"><div class="skill-bar-fill" style="width:85%;"></div></div>
+      </div>
+      <div class="skill" data-aos="fade-up" data-aos-delay="500">
+        <div class="skill-name">PostgreSQL</div>
+        <div class="skill-bar-bg"><div class="skill-bar-fill" style="width:80%;"></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact" data-aos="fade-up">
+    <h2 class="section-title">Contact</h2>
+    <div class="contact-info">
+      <p>Email: <a href="mailto:faizanmunsaf@gmail.com">faizanmunsaf@gmail.com</a></p>
+      <p>Phone: +92-3328893064</p>
+      <p>Location: Sodiwal Bund Road, Lahore, Pakistan</p>
+    </div>
+    <div style="display:flex; gap:1rem; justify-content:center;">
+      <a href="https://github.com/FaizanMunsaf" target="_blank" class="btn" data-aos="zoom-in" data-aos-delay="200">GitHub</a>
+      <a href="https://www.linkedin.com/in/faizan-munsaf-generative-ai/" target="_blank" class="btn" data-aos="zoom-in" data-aos-delay="400">LinkedIn</a>
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 Faizan Munsaf. All rights reserved.
+  </footer>
+
+  <!-- Scripts -->
+  <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/typeit@8"></script>
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <script>
+    AOS.init({ duration: 800, once: true, offset: 120 });
+    new TypeIt(".hero h2", {
+      strings: ["Faizan Munsaf", "NLP & GenAI Expert", "Backend Developer"],
+      speed: 100,
+      breakLines: false,
+      loop: true,
+      nextStringDelay: 1500
+    }).go();
+
+    // Grid lines move with mouse
+    const hero = document.querySelector('.hero');
+    hero.addEventListener('mousemove', e => {
+      const rect = hero.getBoundingClientRect();
+      const x = e.clientX - rect.left - rect.width / 2;
+      const y = e.clientY - rect.top - rect.height / 2;
+      hero.style.setProperty('--bg-pos-x', `${x * 0.05}px`);
+      hero.style.setProperty('--bg-pos-y', `${y * 0.05}px`);
+    });
+
+    // Mouse ring follow
+    const ring = document.getElementById('mouseRing');
+    document.addEventListener('mousemove', e => {
+      ring.style.left = e.pageX + 'px';
+      ring.style.top = e.pageY + 'px';
+    });
+  </script>
+</body>
+</html>
