@@ -10,8 +10,6 @@
 
 <br/>
 
-<!-- ANIMATED WAVE -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 </div>
 
@@ -86,19 +84,19 @@ if __name__ == "__main__":
 
 ## GitHub Statistics
 
-<!-- STREAK STATS - Using GitHub Readme Streak Stats -->
+<!-- STREAK STATS -->
 <a href="https://github.com/FaizanMunsaf">
-  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=FaizanMunsaf&theme=transparent&hide_border=true&background=00000000&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=00D4FF"/>
-</a>
-<a href="https://github.com/FaizanMunsaf">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&hide_border=true&bg_color=00000000&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
+  <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=FaizanMunsaf&theme=transparent&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=00D4FF"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- TOP LANGUAGES -->
+<!-- GITHUB STATS & TOP LANGUAGES SIDE BY SIDE -->
 <a href="https://github.com/FaizanMunsaf">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=ffffff&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/FaizanMunsaf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
 </a>
 
 </div>
@@ -116,16 +114,14 @@ if __name__ == "__main__":
 
 ---
 
-<!-- SNAKE ANIMATION -->
+<!-- 3D CONTRIBUTION CALENDAR -->
 <div align="center">
 
-## Watch the Snake Eat My Contributions
+## Contribution Calendar
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaizanMunsaf/FaizanMunsaf/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaizanMunsaf/FaizanMunsaf/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<a href="https://github.com/FaizanMunsaf">
+  <img src="https://ghchart.rshah.org/00d4ff/FaizanMunsaf" alt="GitHub Contribution Chart"/>
+</a>
 
 </div>
 
