@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=FAIZAN%20MUNSAF&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20|%20AI%20Architect&descAlignY=55&descSize=16&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=FAIZAN%20MUNSAF&fontSize=56&fontColor=ffffff&animation=wave&fontAlignY=40&desc=Machine%20Learning%20Engineer%20|%20AI%20Architect&descAlignY=60&descSize=16&descColor=ffffff"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Generative+AI;Deep+Learning+%26+Neural+Networks;Natural+Language+Processing;MLOps+%26+Cloud+Computing)](https://github.com/FaizanMunsaf)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=760&height=40&lines=Generative+AI;Deep+Learning+%26+Neural+Networks;Natural+Language+Processing;MLOps+%26+Cloud+Computing)](https://github.com/faizanmunsaf)
 
 </div>
 
@@ -45,9 +45,9 @@ class AIEngineer:
 ## CONTRIBUTION GRAPH
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -59,7 +59,7 @@ class AIEngineer:
 ## STREAK STATS
 
 <!-- STREAK - Using official herokuapp -->
-<img src="https://streak-stats.demolab.com?user=FaizanMunsaf&theme=transparent&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="60%"/>
+    <img src="https://streak-stats.demolab.com?user=faizanmunsaf&theme=transparent&hide_border=true&background=0D1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="60%"/>
 
 </div>
 
@@ -130,9 +130,9 @@ Models available on HuggingFace:
 
 | Model | Description |
 |-------|-------------|
-| [llama2-qlora-finetunined-Quote](https://huggingface.co/FaizanMunsaf/llama2-qlora-finetunined-Quote) | LLaMA 2 fine-tuned with QLoRA for quote generation |
-| [llama2-qlora-finetunined-french](https://huggingface.co/FaizanMunsaf/llama2-qlora-finetunined-french) | LLaMA 2 fine-tuned with QLoRA for French |
-| [t5-squad-v1](https://huggingface.co/FaizanMunsaf/t5-squad-v1) | T5 model fine-tuned on SQuAD dataset |
+| [llama2-qlora-finetunined-Quote](https://huggingface.co/faizanmunsaf/llama2-qlora-finetunined-Quote) | LLaMA 2 fine-tuned with QLoRA for quote generation |
+| [llama2-qlora-finetunined-french](https://huggingface.co/faizanmunsaf/llama2-qlora-finetunined-french) | LLaMA 2 fine-tuned with QLoRA for French |
+| [t5-squad-v1](https://huggingface.co/faizanmunsaf/t5-squad-v1) | T5 model fine-tuned on SQuAD dataset |
 
 </div>
 
@@ -142,13 +142,13 @@ Models available on HuggingFace:
 
 ## GITHUB ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=faizanmunsaf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanmunsaf&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=ffffff&langs_count=8" height="165"/>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanMunsaf&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanmunsaf&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=true" width="90%"/>
 
 </div>
 
@@ -158,7 +158,7 @@ Models available on HuggingFace:
 
 ## TROPHIES
 
-<img src="https://github-profile-trophy.vercel.app/?username=FaizanMunsaf&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=faizanmunsaf&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 
 </div>
 
@@ -194,9 +194,9 @@ STATUS      PROJECT
 
 ## PROFILES
 
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FaizanMunsaf-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/FaizanMunsaf)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-faizanmunsaf-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/faizanmunsaf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-faizanmunsaf-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/faizanmunsaf)
-[![GitHub](https://img.shields.io/badge/GitHub-FaizanMunsaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FaizanMunsaf)
+[![GitHub](https://img.shields.io/badge/GitHub-faizanmunsaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizanmunsaf)
 
 </div>
 
@@ -216,7 +216,7 @@ STATUS      PROJECT
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=FaizanMunsaf&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=faizanmunsaf&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS)
 
 <br/>
 
