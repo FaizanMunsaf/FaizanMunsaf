@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CLEAN HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Faizan%20Munsaf&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Architect&descAlignY=55&descSize=16&descColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:1a1a2e&height=180&section=header&text=Faizan%20Munsaf&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Architect&descAlignY=55&descSize=16&descColor=ffffff"/>
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/FaizanMunsaf">
@@ -328,6 +328,6 @@ Feel free to reach out if you want to collaborate or just chat about AI!
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:1a1a2e&height=100&section=footer"/>
 
 </div>
