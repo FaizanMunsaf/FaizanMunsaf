@@ -1,167 +1,507 @@
-<h1 align="center">Hi , I'm FaizanMunsaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/FaizanMunsaf"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Aspiring%20Data%20Scientist%20(ML,%20DL,%20NLP);Cloud+Computing;Hyper-Ledger-Fabric%20Private%20BlockChain;Generative+Ai;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
+<!-- MATRIX ANIMATION HEADER -->
+<div align="center">
+  
+```
+██████╗  █████╗ ██╗███████╗ █████╗ ███╗   ██╗    ███╗   ███╗██╗   ██╗███╗   ██╗███████╗ █████╗ ███████╗
+██╔════╝██╔══██╗██║╚══███╔╝██╔══██╗████╗  ██║    ████╗ ████║██║   ██║████╗  ██║██╔════╝██╔══██╗██╔════╝
+█████╗  ███████║██║  ███╔╝ ███████║██╔██╗ ██║    ██╔████╔██║██║   ██║██╔██╗ ██║███████╗███████║█████╗  
+██╔══╝  ██╔══██║██║ ███╔╝  ██╔══██║██║╚██╗██║    ██║╚██╔╝██║██║   ██║██║╚██╗██║╚════██║██╔══██║██╔══╝  
+██║     ██║  ██║██║███████╗██║  ██║██║ ╚████║    ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║███████║██║  ██║██║     
+╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝     
+```
 
-## :sassy_man:  About me
-- Bachlor's in Computer Science from `Superior University` | Data Scientist (ML, DL, NLP) | Generative Ai | AIOPS | Cloud Computing
-- Intresting in `Data Scientist/Analyst`, Big Data, Cloud Computing, Generative Ai, Proficient in Data Science with focus on challenging businesses problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=SYSTEM%20INITIATED...&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=%3E%3E%20ACCESSING%20MAINFRAME%20%3C%3C&descAlignY=55&descSize=15"/>
 
-### Technology Stacks:
+</div>
 
-**Core/In-depth/Practical Knowledge in:**
+<!-- TERMINAL ANIMATION -->
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=%24+whoami;faizan_munsaf+%7C+ML+Engineer+%7C+AI+Architect)](https://github.com/FaizanMunsaf)
 
-1) Feature Engineering, Data pre-processing, with Sklearn's Pipelines and Algorithms.
-2) Data Manipulation with Pandas, Numpy, Streamlit etc.
-3) Data Visualization with Seaborn, Matplotlib.
-4) In-depth knowledge of Supervised and Unsupervised Machine Learning Models.
-5) In-depth knowledge of Statistics.
-6) Tensorflow 
-7) Pytorch.
-8) Cloud Knowledge in  Azure, AWS (EC2, S3 bucket, Sage Maker)
-9) Knowledge In AIOPS.
-10) Github 
-11) Data Version Control (DVC).
-12) Mlflow.
-13) Dockers.
-14) Generative Ai
-15) Tensorflow
-16) Keras
-17) MongoDB, Postgresql, Firebase Mysql , Sqlite
-18) Hyperledger-Fabric Private BlockChain
-19) Python | TypeScript | Javascript
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=900&height=30&lines=%F0%9F%94%A5+Generative+AI+%7C+Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+Cloud+Computing+%F0%9F%94%A5)](https://github.com/FaizanMunsaf)
 
+</div>
+
+<!-- HACKER PROFILE CARD -->
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+```javascript
+// 🚀 SYSTEM PROFILE v2.0
+const faizanMunsaf = {
+    username: "FaizanMunsaf",
+    role: "Machine Learning Engineer",
+    status: "🟢 ONLINE",
+    location: "Pakistan 🇵🇰",
+    education: {
+        degree: "BSc Computer Science",
+        university: "Superior University"
+    },
+    mission: "Building AI that matters",
+    current_focus: [
+        "Generative AI & LLMs",
+        "MLOps & AIOPS",
+        "Cloud Architecture",
+        "Deep Learning Research"
+    ],
+    daily_routine: "Code → Train → Deploy → Repeat"
+};
+```
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41&ring_color=00ff41" width="100%"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- 🎮 INTERACTIVE GAME SECTION -->
+<div align="center">
+
+## 🎮 `$ ./play_game.sh`
+
+### 🐍 Play Snake & Eat My Contributions!
+
+<a href="https://github.com/FaizanMunsaf">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+</a>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  🕹️  GAME CENTER                                                             ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   🎯 Challenge: Beat my coding streak!                                       ║
+║   🏆 High Score: Check my contribution graph above                           ║
+║   ⚡ Power-ups: Every commit makes me stronger                               ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<!-- CLICK TO PLAY TIC TAC TOE -->
+### 🎲 Want to play? Click below!
+
+[![Play Chess](https://img.shields.io/badge/♟️_Play_Chess_With_Me-0d1117?style=for-the-badge&logo=lichess&logoColor=00ff41&labelColor=0d1117)](https://lichess.org/@/FaizanMunsaf)
+[![Play Wordle](https://img.shields.io/badge/📝_Play_Wordle-0d1117?style=for-the-badge&logo=probot&logoColor=00ff41&labelColor=0d1117)](https://www.nytimes.com/games/wordle/index.html)
+[![2048 Game](https://img.shields.io/badge/🎮_Play_2048-0d1117?style=for-the-badge&logo=googleplay&logoColor=00ff41&labelColor=0d1117)](https://play2048.co/)
+
+</div>
+
+---
+
+<!-- TERMINAL STYLE ABOUT -->
+<div align="center">
+  
+## ⚡ `root@faizan:~# cat about_me.sh`
+
+</div>
+
+```bash
+#!/bin/bash
+
+echo "╔══════════════════════════════════════════════════════════════════════════════╗"
+echo "║                         🧠 NEURAL NETWORK: ACTIVE                            ║"
+echo "╠══════════════════════════════════════════════════════════════════════════════╣"
+echo "║                                                                              ║"
+echo "║  > Initializing AI Engine.......................... [████████████████] 100%  ║"
+echo "║  > Loading ML Models............................... [████████████████] 100%  ║"
+echo "║  > Connecting to Cloud Services.................... [████████████████] 100%  ║"
+echo "║  > Deep Learning Cores............................. [████████████████] 100%  ║"
+echo "║                                                                              ║"
+echo "║  🎯 SPECIALIZATIONS:                                                         ║"
+echo "║     ├── Machine Learning & Deep Learning                                     ║"
+echo "║     ├── Natural Language Processing                                          ║"
+echo "║     ├── Generative AI (LLMs, GANs, Diffusion)                               ║"
+echo "║     ├── MLOps & AIOPS Pipeline Architecture                                  ║"
+echo "║     └── Cloud Computing (AWS, Azure)                                         ║"
+echo "║                                                                              ║"
+echo "╚══════════════════════════════════════════════════════════════════════════════╝"
+```
+
+---
+
+<!-- 🔥 STREAK STATS SECTION -->
+<div align="center">
+
+## 🔥 `$ git log --streak-mode`
+
+### ⚡ CURRENT STREAK STATUS
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanMunsaf&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" width="70%"/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                           🔥 STREAK ACHIEVEMENTS 🔥                          ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   🏆 Consistency is KEY       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ UNLOCKED    ║
+║   ⚡ Code Every Day           ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ UNLOCKED    ║
+║   🚀 Push to Production       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ UNLOCKED    ║
+║   🧠 ML Model Deployed        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ UNLOCKED    ║
+║   ☁️ Cloud Architect          ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ UNLOCKED    ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- 📊 PROGRESS & SKILLS SHOWCASE -->
+<div align="center">
+
+## 📊 `$ cat skill_progress.json`
+
+### 🎯 SKILL MASTERY LEVELS
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                          💻 PROGRAMMING MASTERY                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   Python         [██████████████████████████████████████████████████] 95%   ║
+║   TypeScript     [████████████████████████████████████████░░░░░░░░░░] 80%   ║
+║   JavaScript     [████████████████████████████████████████░░░░░░░░░░] 80%   ║
+║   C++            [██████████████████████████████░░░░░░░░░░░░░░░░░░░░] 60%   ║
+║   Java           [████████████████████████████░░░░░░░░░░░░░░░░░░░░░░] 55%   ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                          🧠 AI/ML EXPERTISE                                  ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   Machine Learning    [██████████████████████████████████████████████] 92%  ║
+║   Deep Learning       [████████████████████████████████████████████░░] 88%  ║
+║   NLP                 [██████████████████████████████████████████░░░░] 85%  ║
+║   Generative AI       [████████████████████████████████████████░░░░░░] 82%  ║
+║   Computer Vision     [██████████████████████████████████░░░░░░░░░░░░] 70%  ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                          ☁️ CLOUD & DEVOPS                                   ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   AWS (EC2, S3, Sage) [████████████████████████████████████████████░░] 88%  ║
+║   Azure               [████████████████████████████████████████░░░░░░] 80%  ║
+║   Docker              [██████████████████████████████████████░░░░░░░░] 78%  ║
+║   MLOps/AIOPS         [████████████████████████████████████████████░░] 85%  ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- 🏆 ACHIEVEMENTS SHOWCASE -->
+<div align="center">
+
+## 🏆 `$ ls -la ~/achievements/`
+
+<img src="https://github-profile-trophy.vercel.app/?username=FaizanMunsaf&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+
+### 🎖️ UNLOCKED BADGES
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎓-Graduate-00ff41?style=for-the-badge&labelColor=0d1117"/>
+<br><sub><b>CS Graduate</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🧠-ML_Expert-00ff41?style=for-the-badge&labelColor=0d1117"/>
+<br><sub><b>ML Engineer</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🤖-AI_Builder-00ff41?style=for-the-badge&labelColor=0d1117"/>
+<br><sub><b>Generative AI</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/☁️-Cloud_Pro-00ff41?style=for-the-badge&labelColor=0d1117"/>
+<br><sub><b>AWS & Azure</b></sub>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📊-Data_Wizard-00ff41?style=for-the-badge&labelColor=0d1117"/>
+<br><sub><b>Data Science</b></sub>
+</td>
+</tr>
+</table>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         📈 PROJECT MILESTONES                                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   ✅ 50+ ML Models Trained & Deployed                                        ║
+║   ✅ Production-Grade AI Systems Built                                       ║
+║   ✅ End-to-End MLOps Pipelines Implemented                                  ║
+║   ✅ Cloud Infrastructure Architected                                        ║
+║   ✅ Multiple NLP Solutions Delivered                                        ║
+║   ✅ Generative AI Applications Created                                      ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- TECH STACK MATRIX -->
+<div align="center">
+  
+## 🔮 `$ sudo apt-get install tech_stack`
+
+</div>
+
+<div align="center">
+
+<!-- LANGUAGES -->
+<details open>
+<summary><b>⚡ PROGRAMMING ARSENAL</b></summary>
 <br>
+<p>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff41&labelColor=0d1117"/>
+</p>
+</details>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanMunsaf&theme=algolia" alt="Faizan" /></p>
-
+<!-- ML/AI -->
+<details open>
+<summary><b>🧠 MACHINE LEARNING & AI</b></summary>
 <br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
-<p align="center">
-	<a href="mailto:faizanmunsaf@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/FaizanMunsaf"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/923328893064"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/faizan-munsaf/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Keras-0d1117?style=for-the-badge&logo=keras&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=00ff41&labelColor=0d1117"/>
+</p>
+</details>
+
+<!-- DATA SCIENCE -->
+<details open>
+<summary><b>📊 DATA SCIENCE TOOLKIT</b></summary>
+<br>
+<p>
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Seaborn-0d1117?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=00ff41&labelColor=0d1117"/>
+</p>
+</details>
+
+<!-- MLOPS -->
+<details open>
+<summary><b>🚀 MLOPS & DEVOPS</b></summary>
+<br>
+<p>
+<img src="https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DVC-0d1117?style=for-the-badge&logo=dvc&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=00ff41&labelColor=0d1117"/>
+</p>
+</details>
+
+<!-- CLOUD -->
+<details open>
+<summary><b>☁️ CLOUD INFRASTRUCTURE</b></summary>
+<br>
+<p>
+<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/EC2-0d1117?style=for-the-badge&logo=amazonec2&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/S3-0d1117?style=for-the-badge&logo=amazons3&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SageMaker-0d1117?style=for-the-badge&logo=amazon&logoColor=00ff41&labelColor=0d1117"/>
+</p>
+</details>
+
+<!-- DATABASES -->
+<details open>
+<summary><b>🗄️ DATABASES</b></summary>
+<br>
+<p>
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00ff41&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=00ff41&labelColor=0d1117"/>
+</p>
+</details>
+
+</div>
+
+---
+
+<!-- 📈 DETAILED STATS -->
+<div align="center">
+
+## 📈 `$ neofetch --github-stats`
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=00ff41&ring_color=00ff41" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" width="100%"/>
+</td>
+</tr>
+</table>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanMunsaf&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&custom_title=📊%20CONTRIBUTION%20MATRIX" width="100%"/>
+
+<!-- METRICS -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaizanMunsaf&theme=chartreuse_dark" width="100%"/>
+
+</div>
+
+---
+
+<!-- 🎯 CURRENT LEARNING PROGRESS -->
+<div align="center">
+
+## 🎯 `$ cat current_learning.log`
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        📚 CURRENT LEARNING JOURNEY                           ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   🔥 Large Language Models (LLMs)                                            ║
+║      Progress: [████████████████████████████████████████████░░░░░░] 88%     ║
+║      Status: Fine-tuning & Prompt Engineering                               ║
+║                                                                              ║
+║   🚀 MLOps Best Practices                                                    ║
+║      Progress: [████████████████████████████████████████░░░░░░░░░░] 82%     ║
+║      Status: CI/CD for ML Pipelines                                         ║
+║                                                                              ║
+║   ☁️ Advanced Cloud Architecture                                             ║
+║      Progress: [██████████████████████████████████░░░░░░░░░░░░░░░░] 70%     ║
+║      Status: Multi-Cloud Deployments                                        ║
+║                                                                              ║
+║   🤖 Autonomous AI Agents                                                    ║
+║      Progress: [██████████████████████████████░░░░░░░░░░░░░░░░░░░░] 65%     ║
+║      Status: Research & Implementation                                       ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- CODING TIME STATS -->
+<div align="center">
+
+## ⏰ `$ cat coding_stats.json`
+
+<!--START_SECTION:waka-->
+```text
+🕐 WEEKLY CODING BREAKDOWN
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   Python       ████████████████████████████████████████░░░░░░░░  75.5%      ║
+║   TypeScript   ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  12.3%      ║
+║   Jupyter      ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6.8%      ║
+║   YAML         ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3.2%      ║
+║   Docker       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%      ║
+║                                                                              ║
+║   💻 Editor: VS Code                                                         ║
+║   🖥️ OS: Windows / Linux                                                     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<!-- CONNECT TERMINAL -->
+<div align="center">
+  
+## 🔗 `$ ssh connect@faizan-munsaf`
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                          ESTABLISHING CONNECTION...                          ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   [✓] Connection Secured                                                     ║
+║   [✓] Encryption: AES-256                                                    ║
+║   [✓] Status: Ready to Connect                                               ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<p>
+<a href="mailto:faizanmunsaf@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d1117"/>
+</a>
+<a href="https://github.com/FaizanMunsaf">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d1117"/>
+</a>
+<a href="https://www.linkedin.com/in/faizan-munsaf/">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d1117"/>
+</a>
+<a href="https://wa.me/923328893064">
+<img src="https://img.shields.io/badge/WhatsApp-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00ff41&labelColor=0d1117"/>
+</a>
 </p>
 
-## 🛠️ My Skills
+</div>
 
-### 👉 Programming languages
+---
 
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-</p>
+<!-- VISITOR COUNTER -->
+<div align="center">
 
-### 👉 Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-</p>
+<img src="https://komarev.com/ghpvc/?username=FaizanMunsaf&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS"/>
 
- ### 👉 Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda%20-%2343B02A.svg?style=plastic&logo=Anaconda&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy%20-%2334A853.svg?style=plastic&logo=Numpy&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%2343B02A.svg?style=plastic&logo=Pandas&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%23F05033.svg?style=plastic&logo=Tensorflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%FE7A16.svg?style=plastic&logo=PyTorch&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Sklearn" src="https://img.shields.io/badge/Sklearn%20-%23000000.svg?style=plastic&logo=Sklearn&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Power Bi" src="https://img.shields.io/badge/Power-Bi%20-%2334A853.svg?style=plastic&logo=Power-Bi&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
-</p>
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗                        ║
+║   ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝                        ║
+║      ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗                        ║
+║      ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║                        ║
+║      ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║                        ║
+║      ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝                        ║
+║                                                                              ║
+║               FOR VISITING MY GITHUB PROFILE! 🚀                             ║
+║                                                                              ║
+║   > "The best way to predict the future is to create it." - Alan Kay        ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
- ### 👉 IDEs
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter-Notebook" src="https://img.shields.io/badge/Jupyter-Notebook-%23000000.svg?style=plastic&logo=Jupyter-Notebook&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter-Lab" src="https://img.shields.io/badge/Jupyter-Lab-%2366595C.svg?&style=plastic&logo=Jupyter-Lab&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20ide-%232C2255.svg?&style=plastic&logo=PyCharm%20ide&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer"/>
 
- ### 👉 Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+</div>
 
-</p>
+<!-- MATRIX RAIN EFFECT (Decorative) -->
+<div align="center">
 
-<br/>
+```
+01001000 01000001 01000011 01001011 00100000 01010100 01001000 01000101 00100000 01010000 01001100 01000001 01001110 01000101 01010100
+```
 
-## 📊 Github Stats
-
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/FaizanMunsaf/github-readme-stats"><img alt="Faizan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FaizanMunsaf&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="FaizanMunsaf" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
-----
-
-<br/>
-
------
-Credits: FaizanMunsaf
-
-Last Edited on: 08/09/2023
+</div>
