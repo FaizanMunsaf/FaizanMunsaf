@@ -89,8 +89,8 @@ if __name__ == "__main__":
 <br/><br/>
 
 <!-- GITHUB STATS & TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
@@ -209,7 +209,7 @@ Models I've trained and deployed on HuggingFace:
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=FaizanMunsaf&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=FaizanMunsaf&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -225,28 +225,28 @@ Models I've trained and deployed on HuggingFace:
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
 <br/>
 <b>Large Language Models</b>
 <br/>
 Fine-tuning, RLHF, Constitutional AI
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Agents-00D4FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agents-5B8DEE?style=for-the-badge"/>
 <br/>
 <b>AI Agents</b>
 <br/>
 Autonomous agents, Tool use, Multi-agent systems
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-7B68EE?style=for-the-badge"/>
 <br/>
 <b>RAG Systems</b>
   <br/>
 Vector DBs, Hybrid search, Evaluation
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/MLOps-2ECC71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLOps-4ECDC4?style=for-the-badge"/>
 <br/>
 <b>MLOps</b>
   <br/>
