@@ -10,10 +10,8 @@
 
 ---
 
+<!-- ABOUT SECTION -->
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
 ```python
 class AIEngineer:
@@ -37,15 +35,21 @@ class AIEngineer:
         return "Building AI that matters"
 ```
 
-</td>
-<td width="50%">
+</div>
 
-<!-- GITHUB STATS - Using verified working API -->
-<img src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" width="100%"/>
+---
 
-</td>
-</tr>
-</table>
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+<div align="center">
+
+## CONTRIBUTION GRAPH
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 </div>
 
 ---
@@ -138,11 +142,12 @@ Models available on HuggingFace:
 
 ## GITHUB ANALYTICS
 
-<!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" height="165"/>
+
+<br/>
 
 <!-- ACTIVITY GRAPH -->
-<br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanMunsaf&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" width="90%"/>
 
 </div>
