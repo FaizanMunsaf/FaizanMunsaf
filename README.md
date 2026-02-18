@@ -91,13 +91,9 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-<!-- GITHUB STATS & TOP LANGUAGES SIDE BY SIDE -->
-<a href="https://github.com/FaizanMunsaf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/FaizanMunsaf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
-</a>
+<!-- GITHUB STATS & TOP LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" height="180"/>
 
 </div>
 
@@ -114,14 +110,16 @@ if __name__ == "__main__":
 
 ---
 
-<!-- 3D CONTRIBUTION CALENDAR -->
+<!-- SNAKE ANIMATION -->
 <div align="center">
 
-## Contribution Calendar
+## Watch the Snake Eat My Contributions
 
-<a href="https://github.com/FaizanMunsaf">
-  <img src="https://ghchart.rshah.org/00d4ff/FaizanMunsaf" alt="GitHub Contribution Chart"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
