@@ -224,33 +224,40 @@ Models I've trained and deployed on HuggingFace:
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge"/>
 <br/>
 <b>Large Language Models</b>
 <br/>
-Fine-tuning, RLHF, Constitutional AI
+Fine-tuning, RLHF, Prompt Engineering
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Agents-5B8DEE?style=for-the-badge"/>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/Computer_Vision-5B8DEE?style=for-the-badge"/>
 <br/>
-<b>AI Agents</b>
+<b>Computer Vision</b>
 <br/>
-Autonomous agents, Tool use, Multi-agent systems
+Object Detection, Image Segmentation, OCR
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/RAG-7B68EE?style=for-the-badge"/>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/IoT-7B68EE?style=for-the-badge"/>
+<br/>
+<b>IoT Projects</b>
+<br/>
+Edge AI, Embedded ML, Sensor Integration
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/RAG-4ECDC4?style=for-the-badge"/>
 <br/>
 <b>RAG Systems</b>
-  <br/>
-Vector DBs, Hybrid search, Evaluation
+<br/>
+Vector DBs, Hybrid Search, Evaluation
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/MLOps-4ECDC4?style=for-the-badge"/>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/MLOps-FF6B6B?style=for-the-badge"/>
 <br/>
 <b>MLOps</b>
-  <br/>
-Production pipelines, Monitoring, Scaling
+<br/>
+CI/CD Pipelines, Monitoring, Scaling
 </td>
 </tr>
 </table>
