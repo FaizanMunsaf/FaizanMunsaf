@@ -1,24 +1,21 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00d4ff,100:000000&height=300&section=header&text=FAIZAN%20MUNSAF&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Architect%20%7C%20Generative%20AI&descAlignY=60&descSize=20"/>
+<!-- CLEAN HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=180&section=header&text=Faizan%20Munsaf&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Architect&descAlignY=55&descSize=16&descColor=ffffff"/>
 
-<!-- ANIMATED TYPING - Multiple Lines -->
+<!-- ANIMATED TYPING -->
 <a href="https://github.com/FaizanMunsaf">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems+That+Solve+Real+Problems;Transforming+Data+Into+Actionable+Intelligence;From+Research+to+Production+%7C+End-to-End+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Generative+AI+Developer;Deep+Learning+Engineer;NLP+Specialist;MLOps+Practitioner;Building+AI+That+Matters" alt="Typing SVG" />
 </a>
-
-<br/>
-
 
 </div>
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=FaizanMunsaf&style=for-the-badge&color=00d4ff)
-[![GitHub followers](https://img.shields.io/github/followers/FaizanMunsaf?style=for-the-badge&color=00d4ff&labelColor=000000)](https://github.com/FaizanMunsaf?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/FaizanMunsaf?style=for-the-badge&color=00d4ff&labelColor=000000)](https://github.com/FaizanMunsaf?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=FaizanMunsaf&style=for-the-badge&color=6C63FF)
+[![GitHub followers](https://img.shields.io/github/followers/FaizanMunsaf?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)](https://github.com/FaizanMunsaf?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/FaizanMunsaf?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)](https://github.com/FaizanMunsaf?tab=repositories)
 
 </div>
 
@@ -86,7 +83,7 @@ if __name__ == "__main__":
 
 <!-- STREAK STATS -->
 <a href="https://github.com/FaizanMunsaf">
-  <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=FaizanMunsaf&theme=transparent&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=00D4FF"/>
+  <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=FaizanMunsaf&theme=tokyonight&hide_border=true&background=1a1a2e&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=6C63FF"/>
 </a>
 
 <br/><br/>
@@ -104,7 +101,7 @@ if __name__ == "__main__":
 
 ## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanMunsaf&custom_title=Faizan's%20Contribution%20Graph&bg_color=000000&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanMunsaf&custom_title=Contribution%20Graph&bg_color=1a1a2e&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&title_color=ffffff"/>
 
 </div>
 
@@ -245,14 +242,14 @@ Autonomous agents, Tool use, Multi-agent systems
 <img src="https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge"/>
 <br/>
 <b>RAG Systems</b>
-<br/>
+  <br/>
 Vector DBs, Hybrid search, Evaluation
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/MLOps-2ECC71?style=for-the-badge"/>
 <br/>
 <b>MLOps</b>
-<br/>
+  <br/>
 Production pipelines, Monitoring, Scaling
 </td>
 </tr>
@@ -327,10 +324,10 @@ Feel free to reach out if you want to collaborate or just chat about AI!
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00d4ff,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer"/>
 
 </div>
