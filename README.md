@@ -1,229 +1,342 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=FAIZAN%20MUNSAF&fontSize=56&fontColor=ffffff&animation=wave&fontAlignY=40&desc=Machine%20Learning%20Engineer%20|%20AI%20Architect&descAlignY=60&descSize=16&descColor=ffffff"/>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:00d4ff,100:000000&height=300&section=header&text=FAIZAN%20MUNSAF&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Architect%20%7C%20Generative%20AI&descAlignY=60&descSize=20"/>
 
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&repeat=true&width=760&height=40&lines=Generative+AI;Deep+Learning+%26+Neural+Networks;Natural+Language+Processing;MLOps+%26+Cloud+Computing)](https://github.com/faizanmunsaf)
+<!-- ANIMATED TYPING - Multiple Lines -->
+<a href="https://github.com/FaizanMunsaf">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Intelligent+Systems+That+Solve+Real+Problems;Transforming+Data+Into+Actionable+Intelligence;From+Research+to+Production+%7C+End-to-End+AI+Solutions" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ANIMATED WAVE -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+</div>
+
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=FaizanMunsaf&style=for-the-badge&color=00d4ff)
+[![GitHub followers](https://img.shields.io/github/followers/FaizanMunsaf?style=for-the-badge&color=00d4ff&labelColor=000000)](https://github.com/FaizanMunsaf?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/FaizanMunsaf?style=for-the-badge&color=00d4ff&labelColor=000000)](https://github.com/FaizanMunsaf?tab=repositories)
 
 </div>
 
 ---
 
-<!-- ABOUT SECTION -->
+<!-- ABOUT ME WITH CODE STYLE -->
 <div align="center">
+  
+## About Me
+
+</div>
 
 ```python
-class AIEngineer:
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+    FAIZAN MUNSAF - AI/ML ENGINEER
+    ==============================
+    Building the future with Artificial Intelligence
+"""
+
+class FaizanMunsaf:
     
     def __init__(self):
         self.name = "Faizan Munsaf"
-        self.role = "ML Engineer"
+        self.role = "Machine Learning Engineer | AI Architect"
         self.location = "Pakistan"
-        self.education = "BSc CS - Superior University"
+        self.education = "BSc Computer Science - Superior University"
+        self.website = "github.com/FaizanMunsaf"
         
-    def skills(self):
+    def get_expertise(self) -> dict:
         return {
-            "AI/ML": ["TensorFlow", "PyTorch", "Keras"],
-            "GenAI": ["LLMs", "RAG", "LangChain"],
-            "NLP": ["Transformers", "HuggingFace"],
-            "Cloud": ["AWS", "Azure", "SageMaker"],
-            "MLOps": ["MLflow", "DVC", "Docker"]
+            "Machine Learning": ["Supervised", "Unsupervised", "Reinforcement Learning"],
+            "Deep Learning": ["CNNs", "RNNs", "LSTMs", "Transformers", "GANs"],
+            "Generative AI": ["LLMs", "RAG", "Fine-tuning", "Prompt Engineering"],
+            "NLP": ["Text Classification", "NER", "Sentiment", "Embeddings"],
+            "MLOps": ["MLflow", "DVC", "Docker", "CI/CD", "Model Monitoring"],
+            "Cloud": ["AWS SageMaker", "Azure ML", "EC2", "S3", "Lambda"],
+            "Frameworks": ["TensorFlow", "PyTorch", "Keras", "LangChain", "HuggingFace"]
         }
     
-    def mission(self):
-        return "Building AI that matters"
+    def get_current_projects(self) -> list:
+        return [
+            "LLM Fine-tuning with QLoRA",
+            "Autonomous AI Agents",
+            "RAG-based Applications",
+            "Multimodal AI Systems"
+        ]
+    
+    def life_philosophy(self) -> str:
+        return "Turning complex problems into intelligent solutions"
+
+
+if __name__ == "__main__":
+    me = FaizanMunsaf()
+    print(f"Welcome to {me.name}'s GitHub Profile!")
 ```
+
+---
+
+<!-- ANIMATED STATS SECTION -->
+<div align="center">
+
+## GitHub Statistics
+
+<!-- STREAK STATS - Using GitHub Readme Streak Stats -->
+<a href="https://github.com/FaizanMunsaf">
+  <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=FaizanMunsaf&theme=transparent&hide_border=true&background=00000000&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=00D4FF"/>
+</a>
+<a href="https://github.com/FaizanMunsaf">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&hide_border=true&bg_color=00000000&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
+</a>
+
+<br/>
+
+<!-- TOP LANGUAGES -->
+<a href="https://github.com/FaizanMunsaf">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=ffffff&langs_count=10"/>
+</a>
 
 </div>
 
 ---
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
-## CONTRIBUTION GRAPH
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanMunsaf&custom_title=Faizan's%20Contribution%20Graph&bg_color=000000&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+
+## Watch the Snake Eat My Contributions
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaizanMunsaf/FaizanMunsaf/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaizanMunsaf/FaizanMunsaf/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
+<!-- TECH STACK WITH ANIMATIONS -->
 <div align="center">
 
-## STREAK STATS
+## Technology Arsenal
 
-<!-- STREAK - Using official herokuapp -->
-    <img src="https://streak-stats.demolab.com?user=faizanmunsaf&theme=transparent&hide_border=true&background=0D1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="60%"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,c&theme=dark" />
 
-</div>
+<br/><br/>
 
----
+### AI / Machine Learning / Deep Learning
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 
-## TECHNOLOGY STACK
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### AI and Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
 
-### Data Science
+<br/>
+
+### Data Science & Visualization
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### MLOps and DevOps
+<br/>
+
+### MLOps & DevOps
 
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+<br/>
 
 ### Cloud Platforms
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+
 ![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+
+<br/>
 
 ### Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,sqlite&theme=dark" />
 
 </div>
 
 ---
 
+<!-- HUGGINGFACE MODELS -->
 <div align="center">
 
-## DEPLOYED MODELS
+## Deployed AI Models
 
-Models available on HuggingFace:
+Models I've trained and deployed on HuggingFace:
 
-| Model | Description |
-|-------|-------------|
-| [llama2-qlora-finetunined-Quote](https://huggingface.co/faizanmunsaf/llama2-qlora-finetunined-Quote) | LLaMA 2 fine-tuned with QLoRA for quote generation |
-| [llama2-qlora-finetunined-french](https://huggingface.co/faizanmunsaf/llama2-qlora-finetunined-french) | LLaMA 2 fine-tuned with QLoRA for French |
-| [t5-squad-v1](https://huggingface.co/faizanmunsaf/t5-squad-v1) | T5 model fine-tuned on SQuAD dataset |
+| Model | Type | Description |
+|:------|:----:|:------------|
+| [llama2-qlora-finetunined-Quote](https://huggingface.co/FaizanMunsaf/llama2-qlora-finetunined-Quote) | LLM | LLaMA 2 fine-tuned with QLoRA for quote generation |
+| [llama2-qlora-finetunined-french](https://huggingface.co/FaizanMunsaf/llama2-qlora-finetunined-french) | LLM | LLaMA 2 fine-tuned with QLoRA for French language |
+| [t5-squad-v1](https://huggingface.co/FaizanMunsaf/t5-squad-v1) | QA | T5 model fine-tuned on SQuAD for question answering |
 
 </div>
 
 ---
 
+<!-- TROPHIES -->
 <div align="center">
 
-## GITHUB ANALYTICS
+## GitHub Trophies
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizanmunsaf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanmunsaf&layout=compact&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=ffffff&langs_count=8" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=FaizanMunsaf&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+<!-- WHAT I'M WORKING ON -->
+<div align="center">
+
+## Current Focus
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge"/>
+<br/>
+<b>Large Language Models</b>
+<br/>
+Fine-tuning, RLHF, Constitutional AI
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Agents-00D4FF?style=for-the-badge"/>
+<br/>
+<b>AI Agents</b>
+<br/>
+Autonomous agents, Tool use, Multi-agent systems
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge"/>
+<br/>
+<b>RAG Systems</b>
+<br/>
+Vector DBs, Hybrid search, Evaluation
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/MLOps-2ECC71?style=for-the-badge"/>
+<br/>
+<b>MLOps</b>
+<br/>
+Production pipelines, Monitoring, Scaling
+</td>
+</tr>
+</table>
+
+---
+
+<!-- CODING ACTIVITY -->
+<div align="center">
+
+## Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python          30 hrs  ████████████████████████████████████████░░░░░░░░  78%
+Jupyter         4 hrs   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
+TypeScript      2 hrs   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
+YAML            1.5 hrs ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%
+Docker          1 hr    ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<!-- PROFILES -->
+<div align="center">
+
+## Find Me On
+
+<a href="https://huggingface.co/FaizanMunsaf">
+  <img src="https://img.shields.io/badge/HuggingFace-FaizanMunsaf-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</a>
+<a href="https://www.kaggle.com/faizanmunsaf">
+  <img src="https://img.shields.io/badge/Kaggle-faizanmunsaf-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+<a href="https://github.com/FaizanMunsaf">
+  <img src="https://img.shields.io/badge/GitHub-FaizanMunsaf-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- CONNECT -->
+<div align="center">
+
+## Let's Connect
+
+<a href="mailto:faizanmunsaf@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-faizanmunsaf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/faizan-munsaf/">
+  <img src="https://img.shields.io/badge/LinkedIn-faizan--munsaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://wa.me/923328893064">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### Open for Collaboration
+
+I'm always interested in working on innovative AI/ML projects. <br/>
+Feel free to reach out if you want to collaborate or just chat about AI!
+
+</div>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizanmunsaf&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=true" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=faizanmunsaf&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-## PROJECT HIGHLIGHTS
-
-</div>
-
-```
-STATUS      PROJECT
-─────────────────────────────────────────────────────────────────────────
-
-[COMPLETE]  Production ML models trained and deployed
-[COMPLETE]  End-to-end MLOps pipelines with CI/CD
-[COMPLETE]  NLP solutions for text processing at scale
-[COMPLETE]  Cloud-native AI systems on AWS and Azure
-[COMPLETE]  LLM fine-tuning with QLoRA (LLaMA 2, T5)
-[COMPLETE]  RAG applications with vector databases
-
-[ACTIVE]    Autonomous AI agents and multi-agent systems
-[ACTIVE]    Advanced prompt engineering techniques
-[ACTIVE]    Multimodal AI research
-
-─────────────────────────────────────────────────────────────────────────
-```
-
----
-
-<div align="center">
-
-## PROFILES
-
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-faizanmunsaf-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/faizanmunsaf)
-[![Kaggle](https://img.shields.io/badge/Kaggle-faizanmunsaf-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/faizanmunsaf)
-[![GitHub](https://img.shields.io/badge/GitHub-faizanmunsaf-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizanmunsaf)
-
-</div>
-
----
-
-<div align="center">
-
-## CONNECT
-
-[![Email](https://img.shields.io/badge/Email-faizanmunsaf@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faizanmunsaf@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-faizan--munsaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-munsaf/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923328893064)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=faizanmunsaf&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS)
-
-<br/>
-
-```
-"The goal is to turn data into information, and information into insight."
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00d4ff,100:000000&height=120&section=footer"/>
 
 </div>
