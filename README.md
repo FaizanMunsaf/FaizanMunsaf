@@ -1,18 +1,13 @@
 <div align="center">
 
-<!-- CLEAN HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6C63FF,100:1a1a2e&height=180&section=header&text=Faizan%20Munsaf&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Architect&descAlignY=55&descSize=16&descColor=ffffff"/>
 
-<!-- ANIMATED TYPING -->
 <a href="https://github.com/FaizanMunsaf">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Generative+AI+Developer;Deep+Learning+Engineer;NLP+Specialist;MLOps+Practitioner;Building+AI+That+Matters" alt="Typing SVG" />
 </a>
 
-</div>
+<br/>
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<div align="center">
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=FaizanMunsaf&style=for-the-badge&color=6C63FF)
 [![GitHub followers](https://img.shields.io/github/followers/FaizanMunsaf?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)](https://github.com/FaizanMunsaf?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/FaizanMunsaf?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)](https://github.com/FaizanMunsaf?tab=repositories)
@@ -21,9 +16,8 @@
 
 ---
 
-<!-- ABOUT ME WITH CODE STYLE -->
 <div align="center">
-  
+
 ## About Me
 
 </div>
@@ -38,14 +32,14 @@
 """
 
 class FaizanMunsaf:
-    
+
     def __init__(self):
         self.name = "Faizan Munsaf"
         self.role = "Machine Learning Engineer | AI Architect"
         self.location = "Pakistan"
         self.education = "BSc Computer Science - Superior University"
         self.website = "github.com/FaizanMunsaf"
-        
+
     def get_expertise(self) -> dict:
         return {
             "Machine Learning": ["Supervised", "Unsupervised", "Reinforcement Learning"],
@@ -56,7 +50,7 @@ class FaizanMunsaf:
             "Cloud": ["AWS SageMaker", "Azure ML", "EC2", "S3", "Lambda"],
             "Frameworks": ["TensorFlow", "PyTorch", "Keras", "LangChain", "HuggingFace"]
         }
-    
+
     def get_current_projects(self) -> list:
         return [
             "LLM Fine-tuning with QLoRA",
@@ -64,7 +58,7 @@ class FaizanMunsaf:
             "RAG-based Applications",
             "Multimodal AI Systems"
         ]
-    
+
     def life_philosophy(self) -> str:
         return "Turning complex problems into intelligent solutions"
 
@@ -76,64 +70,54 @@ if __name__ == "__main__":
 
 ---
 
-<!-- ANIMATED STATS SECTION -->
 <div align="center">
 
 ## GitHub Statistics
 
-<!-- STREAK STATS -->
 <a href="https://github.com/FaizanMunsaf">
   <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=FaizanMunsaf&theme=tokyonight&hide_border=true&background=1a1a2e&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&stroke=6C63FF"/>
 </a>
 
 <br/><br/>
 
-<!-- GITHUB STATS & TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api?username=FaizanMunsaf&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=FaizanMunsaf&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=FaizanMunsaf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
 <div align="center">
 
 ## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizanMunsaf&custom_title=Contribution%20Graph&bg_color=1a1a2e&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&title_color=ffffff"/>
+<img src="https://github-readme-activity-graph-ashen.vercel.app/graph?username=FaizanMunsaf&custom_title=Contribution%20Graph&bg_color=1a1a2e&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&title_color=ffffff"/>
 
 </div>
 
 ---
 
-<!-- SNAKE ANIMATION -->
 <div align="center">
 
 ## Watch the Snake Eat My Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<img alt="Snake animation" src="./assets/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-<!-- TECH STACK WITH ANIMATIONS -->
 <div align="center">
 
 ## Technology Arsenal
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java,c&theme=dark"/>
 
 <br/><br/>
 
 ### AI / Machine Learning / Deep Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -170,7 +154,7 @@ if __name__ == "__main__":
 
 ### Cloud Platforms
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark"/>
 
 ![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
@@ -181,13 +165,12 @@ if __name__ == "__main__":
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,sqlite&theme=dark"/>
 
 </div>
 
 ---
 
-<!-- HUGGINGFACE MODELS -->
 <div align="center">
 
 ## Deployed AI Models
@@ -204,18 +187,16 @@ Models I've trained and deployed on HuggingFace:
 
 ---
 
-<!-- TROPHIES -->
 <div align="center">
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=FaizanMunsaf&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
+<img src="https://trophy.ryglcloud.net/?username=FaizanMunsaf&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10"/>
 
 </div>
 
 ---
 
-<!-- WHAT I'M WORKING ON -->
 <div align="center">
 
 ## Current Focus
@@ -264,12 +245,10 @@ CI/CD Pipelines, Monitoring, Scaling
 
 ---
 
-<!-- CODING ACTIVITY -->
 <div align="center">
 
 ## Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
 ```text
 Python          30 hrs  ████████████████████████████████████████░░░░░░░░  78%
 Jupyter         4 hrs   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  10%
@@ -277,17 +256,18 @@ TypeScript      2 hrs   █████░░░░░░░░░░░░░�
 YAML            1.5 hrs ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   4%
 Docker          1 hr    ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   3%
 ```
-<!--END_SECTION:waka-->
 
 </div>
 
 ---
 
-<!-- PROFILES -->
 <div align="center">
 
 ## Find Me On
 
+<a href="https://faizanmunsaf-github-io.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Faizan_Munsaf-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Faizan Munsaf Portfolio"/>
+</a>
 <a href="https://huggingface.co/FaizanMunsaf">
   <img src="https://img.shields.io/badge/HuggingFace-FaizanMunsaf-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
@@ -302,7 +282,6 @@ Docker          1 hr    ███░░░░░░░░░░░░░░░�
 
 ---
 
-<!-- CONNECT -->
 <div align="center">
 
 ## Let's Connect
@@ -321,14 +300,13 @@ Docker          1 hr    ███░░░░░░░░░░░░░░░�
 
 ### Open for Collaboration
 
-I'm always interested in working on innovative AI/ML projects. <br/>
+I'm always interested in working on innovative AI/ML projects.<br/>
 Feel free to reach out if you want to collaborate or just chat about AI!
 
 </div>
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
